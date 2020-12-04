@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+.todolist-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  text-align: center;
+}
